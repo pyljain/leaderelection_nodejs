@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "kubernetes-client": "^8.3.4"
+    "kubernetes-client": "^8.3.7"
   }
 }
